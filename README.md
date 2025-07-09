@@ -2,7 +2,6 @@
 
 This Python script connects to your Gmail inbox, scans unread messages labeled "Bounced", extracts failed recipient email addresses from bounce notifications, and exports them into Excel files in batch format.
 
---
 
 ## Features
 
@@ -13,7 +12,6 @@ This Python script connects to your Gmail inbox, scans unread messages labeled "
 - Automatically marks emails as read after parsing  
 - Outputs clean Excel files (`.xlsx`) by batch
 
---
 
 ## Dependencies
 
