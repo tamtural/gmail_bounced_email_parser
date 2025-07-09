@@ -19,3 +19,6 @@ Install these packages before running the script:
 
 ```bash
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pandas openpyxl
+
+## Author
+Created by [Tamarl Christie](https://github.com/tamtural) to automate and streamline premium file auditing as part of a larger billing reconciliation pipeline.
